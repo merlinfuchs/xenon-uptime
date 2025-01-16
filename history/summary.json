@@ -4,18 +4,20 @@
     "url": "https://xenon.bot/",
     "icon": "https://icons.duckduckgo.com/ip3/xenon.bot.ico",
     "slug": "xenon-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 978,
-    "timeWeek": 741,
-    "timeMonth": 780,
-    "timeYear": 736,
-    "dailyMinutesDown": {}
+    "time": 780,
+    "timeDay": 3546,
+    "timeWeek": 1413,
+    "timeMonth": 947,
+    "timeYear": 780,
+    "dailyMinutesDown": {
+      "2025-01-16": 0
+    }
   },
   {
     "name": "Xenon Wiki",
