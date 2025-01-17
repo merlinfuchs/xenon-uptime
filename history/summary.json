@@ -6,18 +6,16 @@
     "slug": "xenon-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 2573,
-    "timeWeek": 1325,
-    "timeMonth": 937,
-    "timeYear": 779,
-    "dailyMinutesDown": {
-      "2025-01-16": 6
-    }
+    "time": 778,
+    "timeDay": 2453,
+    "timeWeek": 1294,
+    "timeMonth": 918,
+    "timeYear": 778,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xenon Wiki",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 1134,
-    "timeWeek": 719,
-    "timeMonth": 778,
-    "timeYear": 750,
+    "time": 748,
+    "timeDay": 603,
+    "timeWeek": 690,
+    "timeMonth": 766,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   }
 ]
