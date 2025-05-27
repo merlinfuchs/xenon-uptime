@@ -6,19 +6,16 @@
     "slug": "xenon-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
     "timeDay": 544,
     "timeWeek": 582,
     "timeMonth": 669,
     "timeYear": 758,
-    "dailyMinutesDown": {
-      "2025-05-27": 1,
-      "2025-05-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xenon Wiki",
